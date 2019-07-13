@@ -1,0 +1,14 @@
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.deps.json
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.runtimeconfig.json
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.runtimeconfig.dev.json
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.dll
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.pdb
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.csprojAssemblyReference.cache
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.csproj.CoreCompileInputs.cache
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.RazorAssemblyInfo.cache
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.RazorAssemblyInfo.cs
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.AssemblyInfoInputs.cache
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.AssemblyInfo.cs
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.RazorTargetAssemblyInfo.cache
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.dll
+C:\Users\manaf\Desktop\CommandAPISolution\src\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.pdb
